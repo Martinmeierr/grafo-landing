@@ -14,13 +14,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Grafo Estudio — Arquitectura clara',
     description: 'Decisiones que se pueden construir. Proyecto arquitectónico y planos municipales en Zona Norte.',
-    images: [{ url: '/og.png', width: 1731, height: 909, alt: 'Grafo Estudio — Arquitectura clara' }],
+    images: [{ url: '/og.jpg', width: 1200, height: 630, alt: 'Grafo Estudio — Arquitectura clara' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Grafo Estudio — Arquitectura clara',
     description: 'Decisiones que se pueden construir. Proyecto arquitectónico y planos municipales en Zona Norte.',
-    images: ['/og.png'],
+    images: ['/og.jpg'],
   },
 };
 

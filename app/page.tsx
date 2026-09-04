@@ -38,7 +38,7 @@ export default function Home() {
       </header>
 
       <section className="hero" id="inicio">
-        <Image className="hero-image" src="/images/obra-marino.jpg" alt="Casa Marino en construcción entre árboles" fill priority sizes="100vw" />
+        <Image className="hero-image" src="/images/obra-marino.webp" alt="Casa Marino en construcción entre árboles" fill priority sizes="100vw" />
         <div className="hero-shade" />
         <div className="hero-grid" aria-hidden="true" />
         <div className="hero-copy">
@@ -72,8 +72,8 @@ export default function Home() {
         <div className="project-head" data-reveal><div><p>Casa Marino · Benavidez, Tigre</p><h2>De la idea<br />a la materia.</h2></div><p>Proyecto, documentación técnica, cómputos y seguimiento. Una misma lógica desde las primeras decisiones hasta la obra.</p></div>
         <div className="comparison" data-reveal>
           <div className="compare-frame">
-            <Image src="/images/casa-marino-obra.jpg" alt="Casa Marino durante la construcción" fill sizes="100vw" />
-            <div className="compare-after" style={{ clipPath: `inset(0 0 0 ${compare}%)` }}><Image src="/images/casa-marino-render.jpg" alt="Visualización final de Casa Marino" fill sizes="100vw" /></div>
+            <Image src="/images/casa-marino-obra.webp" alt="Casa Marino durante la construcción" fill sizes="100vw" />
+            <div className="compare-after" style={{ clipPath: `inset(0 0 0 ${compare}%)` }}><Image src="/images/casa-marino-render.webp" alt="Visualización final de Casa Marino" fill sizes="100vw" /></div>
             <div className="compare-line" style={{ left: `${compare}%` }}><span>↔</span></div>
             <span className="compare-tag before">Obra</span><span className="compare-tag after">Proyecto</span>
             <input aria-label="Comparar obra y proyecto" type="range" min="8" max="92" value={compare} onChange={(event) => setCompare(Number(event.target.value))} />
@@ -88,7 +88,7 @@ export default function Home() {
       </section>
 
       <section className="about" id="estudio">
-        <div className="about-image"><Image src="/images/casa-marino-seguimiento.jpg" alt="Seguimiento profesional de Casa Marino en obra" fill sizes="(max-width: 800px) 100vw, 48vw" /></div>
+        <div className="about-image"><Image src="/images/casa-marino-seguimiento.webp" alt="Seguimiento profesional de Casa Marino en obra" fill sizes="(max-width: 800px) 100vw, 48vw" /></div>
         <div className="about-copy section-pad"><div className="section-label inverse" data-reveal><span>05</span><p>Conocé a Grafo</p></div><div data-reveal><h2>El estudio pone el proceso por delante de las promesas.</h2><p>Grafo está dirigido por Facundo Ojeda, Maestro Mayor de Obras con matrícula profesional T-54041. El trabajo combina proyecto, documentación y gestión con una idea simple: explicar con claridad qué se puede hacer, qué hace falta y cuál es el camino razonable.</p><div className="credentials"><div><strong>T-54041</strong><small>Matrícula profesional</small></div><div><strong>5</strong><small>Municipios de cobertura</small></div></div></div></div>
       </section>
 
