@@ -107,7 +107,19 @@ export default function Home() {
         </form>
       </section>
 
-      <footer><a className="footer-logo" href="#inicio"><Image src="/images/grafo-logo.png" alt="Grafo Estudio" width={260} height={72} /></a><div><p>Facundo Ojeda · M.M.O.</p><p>Matrícula profesional T-54041</p></div><div><a href="mailto:ojedaf.arq@gmail.com">ojedaf.arq@gmail.com</a><a href="tel:+541132273109">+54 11 3227-3109</a><p>Benavidez, Tigre</p></div><a href="#inicio">Volver arriba ↑</a></footer>
+      <footer>
+        <a className="footer-logo" href="#inicio"><Image src="/images/grafo-logo.png" alt="Grafo Estudio" width={260} height={72} /></a>
+        <div><p>Facundo Ojeda · M.M.O.</p><p>Matrícula profesional T-54041</p></div>
+        <div><a href="mailto:ojedaf.arq@gmail.com">ojedaf.arq@gmail.com</a><a href="tel:+541132273109">+54 11 3227-3109</a><p>Benavidez, Tigre</p></div>
+        <a href="#inicio">Volver arriba ↑</a>
+        <div className="footer-bottom">
+          <span>© Grafo Estudio · Todos los derechos reservados</span>
+          <a className="windstudies-credit" href="https://windstudies.com" target="_blank" rel="noopener noreferrer">
+            <span>Desarrollado por</span>
+            <Image src="/images/windstudies.png" alt="WindStudies" width={432} height={66} />
+          </a>
+        </div>
+      </footer>
 
       <div className="float-actions" aria-label="Contacto directo"><a className="float-ig" href="https://www.instagram.com/foarq_/" target="_blank" rel="noreferrer" aria-label="Instagram de Grafo">IG</a><a className="float-wa" href="https://wa.me/5491132273109?text=Hola%20Grafo%2C%20vi%20su%20web%20y%20quiero%20hacer%20una%20consulta." target="_blank" rel="noreferrer" aria-label="Escribir a Grafo por WhatsApp">WA</a></div>
     </main>
