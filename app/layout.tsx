@@ -1,30 +1,25 @@
 import type { Metadata } from 'next';
-import { Geist, Geist_Mono } from 'next/font/google';
+import { Archivo } from 'next/font/google';
 import './globals.css';
 
-const geistSans = Geist({
-  variable: '--font-geist-sans',
-  subsets: ['latin'],
-});
-
-const geistMono = Geist_Mono({
-  variable: '--font-geist-mono',
+const archivo = Archivo({
+  variable: '--font-archivo',
   subsets: ['latin'],
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://foarq-arquitectura.martinmeierr.chatgpt.site'),
-  title: 'FOARQ — Arquitectura que nace de escuchar',
-  description: 'Estudio de arquitectura de Facundo Ojeda. Proyecto, dirección y construcción de viviendas contemporáneas.',
+  metadataBase: new URL('https://grafo-estudio.martinmeierr.chatgpt.site'),
+  title: 'Grafo Estudio — Arquitectura y planos municipales',
+  description: 'Proyecto arquitectónico y gestión de planos municipales en Vicente López, San Isidro, Tigre, General San Martín y Escobar.',
   openGraph: {
-    title: 'FOARQ — Espacios que nacen de escuchar',
-    description: 'Arquitectura residencial conectada con la vida y el paisaje.',
-    images: [{ url: '/og.png', width: 1536, height: 1024, alt: 'FOARQ — Espacios que nacen de escuchar' }],
+    title: 'Grafo Estudio — Arquitectura clara',
+    description: 'Decisiones que se pueden construir. Proyecto arquitectónico y planos municipales en Zona Norte.',
+    images: [{ url: '/og.png', width: 1731, height: 909, alt: 'Grafo Estudio — Arquitectura clara' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'FOARQ — Espacios que nacen de escuchar',
-    description: 'Arquitectura residencial conectada con la vida y el paisaje.',
+    title: 'Grafo Estudio — Arquitectura clara',
+    description: 'Decisiones que se pueden construir. Proyecto arquitectónico y planos municipales en Zona Norte.',
     images: ['/og.png'],
   },
 };
@@ -37,7 +32,7 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${archivo.variable} antialiased`}
       >
         {children}
       </body>
