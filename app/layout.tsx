@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://foarq-arquitectura.sure-hill-2573.chatgpt.site'),
+  metadataBase: new URL('https://foarq-arquitectura.martinmeierr.chatgpt.site'),
   title: 'FOARQ — Arquitectura que nace de escuchar',
   description: 'Estudio de arquitectura de Facundo Ojeda. Proyecto, dirección y construcción de viviendas contemporáneas.',
   openGraph: {
