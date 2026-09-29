@@ -8,7 +8,7 @@ const archivo = Archivo({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://grafo-estudio.martinmeierr.chatgpt.site'),
+  metadataBase: new URL(process.env.GRAFO_SITE_URL || 'https://grafo-estudio.martinmeierr.chatgpt.site'),
   title: 'Grafo Estudio · Arquitectura y planos municipales',
   description: 'Grafo Estudio. Arquitectura, planos municipales y gestión de regularización en Vicente López, San Isidro, Tigre, General San Martín, Escobar y San Fernando.',
   openGraph: {

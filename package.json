@@ -8,6 +8,8 @@
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
+    "build:hostinger": "GRAFO_STATIC_EXPORT=1 next build --webpack",
+    "postbuild:hostinger": "node deployment/prepare-hostinger.mjs",
     "start": "vinext start",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next"
   },
