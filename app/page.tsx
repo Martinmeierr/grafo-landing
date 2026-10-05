@@ -1,28 +1,25 @@
-import { ConsultationProvider } from '@/components/consultation-context';
-import { ContactWizard } from '@/components/contact-wizard';
-import { Footer } from '@/components/footer';
-import { Header } from '@/components/header';
-import { Hero } from '@/components/hero';
-import { ProcessSection } from '@/components/process-section';
-import { ProjectsSection } from '@/components/projects-section';
-import { RevealObserver } from '@/components/reveal-observer';
-import { ServicesSection } from '@/components/services-section';
-import { SituationsSection } from '@/components/situations-section';
-import { StudioSection } from '@/components/studio-section';
+import Script from 'next/script';
+import { SiteFragment } from '@/components/landing/site-fragment';
 
 export default function Home() {
-  return <ConsultationProvider>
-    <RevealObserver/>
-    <Header/>
+  return <>
+    <SiteFragment name="header"/>
     <main>
-      <Hero/>
-      <ServicesSection/>
-      <SituationsSection/>
-      <ProjectsSection/>
-      <ProcessSection/>
-      <StudioSection/>
-      <ContactWizard/>
+      <SiteFragment name="hero"/>
+      <SiteFragment name="services"/>
+      <SiteFragment name="situations"/>
+      <SiteFragment name="projects"/>
+      <SiteFragment name="lightbox"/>
+      <SiteFragment name="process"/>
+      <SiteFragment name="municipal-cta"/>
+      <SiteFragment name="studio"/>
+      <SiteFragment name="press"/>
+      <SiteFragment name="contact"/>
+      <SiteFragment name="contact-details"/>
     </main>
-    <Footer/>
-  </ConsultationProvider>;
+    <SiteFragment name="footer"/>
+    <SiteFragment name="whatsapp-button"/>
+    <SiteFragment name="whatsapp-welcome"/>
+    <Script src="/scripts/grafo-landing.js" strategy="afterInteractive"/>
+  </>;
 }

@@ -1,8 +1,0 @@
-import Image from 'next/image';
-import { Brand, InstagramIcon, WhatsAppIcon } from './brand';
-
-const whatsappUrl = 'https://wa.me/5491132273109?text=Hola%20Grafo%2C%20vi%20su%20web%20y%20quiero%20hacer%20una%20consulta.';
-
-export function Footer() {
-  return <><footer className="site"><div className="wrap"><div className="footer-grid"><div className="footer-col"><a href="#inicio"><Brand/></a><div className="footer-credential">Facundo Ojeda · M.M.O.<br/>Matrícula profesional T-54041</div></div><div className="footer-col"><b>Contacto</b><a href="mailto:ojedaf.arq@gmail.com">ojedaf.arq@gmail.com</a><a href="tel:+541132273109">+54 11 3227-3109</a><div>Benavidez, Tigre</div></div><div className="footer-col"><b>Estudio</b><a href="#servicios">Servicios</a><a href="#proyectos">Proyectos</a><a href="#estudio">Estudio</a></div><div className="footer-col"><b>Seguinos</b><a href="https://www.instagram.com/foarq_/" target="_blank" rel="noopener noreferrer" className="social-link"><InstagramIcon/>Instagram</a><a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="social-link"><WhatsAppIcon/>WhatsApp</a></div></div><div className="footer-bottom"><span>© Grafo Estudio · Todos los derechos reservados</span><a href="#inicio">Volver arriba ↑</a><a className="desarrollado" href="https://windstudies.com" target="_blank" rel="noopener noreferrer"><span>Desarrollado por</span><Image src="/images/windstudies.png" alt="WindStudies" width={432} height={66}/></a></div></div></footer><div className="floating"><a href={whatsappUrl} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp de Grafo"><WhatsAppIcon/></a></div></>;
-}

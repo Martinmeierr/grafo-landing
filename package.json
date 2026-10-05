@@ -1,5 +1,5 @@
 {
-  "name": "sites-project",
+  "name": "grafo-estudio-landing",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -9,6 +9,8 @@
     "dev": "vinext dev",
     "build": "vinext build",
     "build:hostinger": "GRAFO_STATIC_EXPORT=1 next build --webpack",
+    "package:hostinger": "npm run build:hostinger && node scripts/package-hostinger.mjs",
+    "package:source": "node scripts/package-source.mjs",
     "postbuild:hostinger": "node deployment/prepare-hostinger.mjs",
     "start": "vinext start",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next"

@@ -1,0 +1,311 @@
+<section id="contacto" class="claro">
+  <div class="wrap reveal">
+    <div class="wizard-wrap">
+      <div class="wizard-head">
+        <div class="eyebrow">Armá tu consulta</div>
+        <h2>Unos pasos cortos <span class="tono">y llegamos a la charla.</span></h2>
+                <p class="sin-cargo"><b>La consulta inicial es sin cargo.</b> Si después hace falta un relevamiento en el lugar, se cotiza aparte y lo hablamos antes.</p>
+      </div>
+
+      <div class="proyecto-graph" id="proyectoGraph" hidden>
+        <svg viewBox="0 0 640 96" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+          <line class="edge" data-edge="e1" x1="50" y1="40" x2="158" y2="40"></line>
+          <line class="edge" data-edge="e2" x1="158" y1="40" x2="266" y2="40"></line>
+          <line class="edge" data-edge="e3" x1="266" y1="40" x2="374" y2="40"></line>
+          <line class="edge" data-edge="e4" x1="374" y1="40" x2="482" y2="40"></line>
+          <line class="edge" data-edge="e5" x1="482" y1="40" x2="590" y2="40"></line>
+
+          <g class="node" data-node="ambientes">
+            <circle cx="50" cy="40" r="19"></circle>
+            <text class="node-label" x="50" y="76">Ambientes</text>
+          </g>
+          <g class="node" data-node="cocina">
+            <circle cx="158" cy="40" r="19"></circle>
+            <text class="node-label" x="158" y="76">Cocina</text>
+          </g>
+          <g class="node" data-node="galeria">
+            <circle cx="266" cy="40" r="19"></circle>
+            <text class="node-label" x="266" y="76">Galería</text>
+          </g>
+          <g class="node" data-node="dormitorios">
+            <circle cx="374" cy="40" r="19"></circle>
+            <text class="node-label" x="374" y="76">Dormitorios</text>
+          </g>
+          <g class="node" data-node="banos">
+            <circle cx="482" cy="40" r="19"></circle>
+            <text class="node-label" x="482" y="76">Baños</text>
+          </g>
+          <g class="node" data-node="exterior">
+            <circle cx="590" cy="40" r="19"></circle>
+            <text class="node-label" x="590" y="76">Exterior</text>
+          </g>
+        </svg>
+        <div class="graph-tags" id="graphTags"></div>
+      </div>
+
+      <form class="wizard" id="wizardForm">
+        <div class="wizard-progress">
+          <div class="bar"><i id="progressBar" style="width:25%"></i></div>
+        </div>
+
+        <div class="wizard-body">
+          <!-- servicio -->
+          <div class="panel" id="panel-servicio">
+            <h3 class="q">¿En qué podemos ayudarte?</h3>
+            <div class="opciones" data-group="servicio">
+              <button type="button" class="opt">Planos municipales</button>
+              <button type="button" class="opt">Proyecto arquitectónico</button>
+              <button type="button" class="opt">Reforma o ampliación</button>
+            </div>
+          </div>
+
+          <!-- reforma: una reforma va por partes, no necesita el programa completo de un proyecto -->
+          <div class="panel" id="panel-reforma" hidden>
+            <h3 class="q">¿Qué ambientes querés reformar?</h3>
+            <p class="panel-note">Podés marcar más de uno. Con saber qué parte de la casa es alcanza para la primera charla.</p>
+            <div class="opciones opciones-multi" data-multi-select="reforma_ambientes">
+              <button type="button" class="opt">Baño</button>
+              <button type="button" class="opt">Cocina</button>
+              <button type="button" class="opt">Dormitorio</button>
+              <button type="button" class="opt">Estar / Comedor</button>
+              <button type="button" class="opt">Galería o exterior</button>
+              <button type="button" class="opt">Fachada</button>
+              <button type="button" class="opt">Ampliación de metros</button>
+              <button type="button" class="opt">Toda la casa</button>
+            </div>
+            <div class="campo" style="margin-top:28px;">
+              <label for="reformaDetalle">Contanos un poco más (opcional)</label>
+              <input type="text" id="reformaDetalle" placeholder="Por ejemplo: quiero agrandar el baño y cambiar los artefactos">
+            </div>
+            <button type="button" class="btn btn-dark" id="reformaContinuar" disabled>Continuar →</button>
+          </div>
+
+          <!-- situación (solo rama Planos municipales) -->
+          <div class="panel" id="panel-situacion" hidden>
+            <h3 class="q">¿Cuál describe mejor tu situación?</h3>
+            <div class="opciones" data-group="situacion">
+              <button type="button" class="opt">Construcción no declarada</button>
+              <button type="button" class="opt">Venta o escritura</button>
+              <button type="button" class="opt">Obra nueva o ampliación</button>
+              <button type="button" class="opt">Final de obra</button>
+              <button type="button" class="opt">Observaciones municipales</button>
+              <button type="button" class="opt">No sé por dónde empezar</button>
+            </div>
+          </div>
+
+          <!-- ambientes (solo rama Proyecto arquitectónico) -->
+          <div class="panel" id="panel-ambientes" hidden>
+            <h3 class="q">Ambientes principales</h3>
+            <p class="panel-note">Son varias preguntas: te van a ayudar a llegar con un anteproyecto mucho más preciso. Tomate tu tiempo.</p>
+            <div class="subq">
+              <p class="sublabel">Estar / Comedor</p>
+              <div class="opciones opciones-2 compact" data-group="ambientes_estar" data-multi="ambientes">
+                <button type="button" class="opt">Integrado</button>
+                <button type="button" class="opt">Separado</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Cocina</p>
+              <div class="opciones opciones-2 compact" data-group="ambientes_cocina" data-multi="ambientes">
+                <button type="button" class="opt">Integrado</button>
+                <button type="button" class="opt">Separado</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Estudio</p>
+              <div class="opciones opciones-2 compact" data-group="ambientes_estudio" data-multi="ambientes">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="ambientes" disabled>Continuar →</button>
+          </div>
+
+          <!-- cocina -->
+          <div class="panel" id="panel-cocina" hidden>
+            <h3 class="q">Cocina</h3>
+            <div class="subq">
+              <p class="sublabel">Formato</p>
+              <div class="opciones compact" data-group="cocina_formato" data-multi="cocina">
+                <button type="button" class="opt">Recta</button>
+                <button type="button" class="opt">En L</button>
+                <button type="button" class="opt">En U</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Con isla</p>
+              <div class="opciones opciones-2 compact" data-group="cocina_isla" data-multi="cocina">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Comedor diario</p>
+              <div class="opciones opciones-2 compact" data-group="cocina_comedor" data-multi="cocina">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="cocina" disabled>Continuar →</button>
+          </div>
+
+          <!-- galería -->
+          <div class="panel" id="panel-galeria" hidden>
+            <h3 class="q">Galería</h3>
+            <div class="subq">
+              <p class="sublabel">Estar exterior</p>
+              <div class="opciones opciones-2 compact" data-group="galeria_estar" data-multi="galeria">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Isla</p>
+              <div class="opciones opciones-2 compact" data-group="galeria_isla" data-multi="galeria">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Parrilla</p>
+              <div class="opciones opciones-2 compact" data-group="galeria_parrilla" data-multi="galeria">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="galeria" disabled>Continuar →</button>
+          </div>
+
+          <!-- dormitorios -->
+          <div class="panel" id="panel-dormitorios" hidden>
+            <h3 class="q">Dormitorios</h3>
+            <div class="subq">
+              <p class="sublabel">Cantidad</p>
+              <div class="opciones compact" data-group="dorm_cantidad" data-multi="dormitorios">
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+                <button type="button" class="opt">3</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Vestidor</p>
+              <div class="opciones compact" data-group="dorm_vestidor" data-multi="dormitorios">
+                <button type="button" class="opt">0</button>
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">En suite</p>
+              <div class="opciones compact" data-group="dorm_ensuite" data-multi="dormitorios">
+                <button type="button" class="opt">0</button>
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="dormitorios" disabled>Continuar →</button>
+          </div>
+
+          <!-- baños -->
+          <div class="panel" id="panel-banos" hidden>
+            <h3 class="q">Baños</h3>
+            <div class="subq">
+              <p class="sublabel">Toilette</p>
+              <div class="opciones compact" data-group="banos_toilette" data-multi="banos">
+                <button type="button" class="opt">0</button>
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Baño</p>
+              <div class="opciones compact" data-group="banos_bano" data-multi="banos">
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+                <button type="button" class="opt">3</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Antebaño</p>
+              <div class="opciones opciones-2 compact" data-group="banos_antebano" data-multi="banos">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="banos" disabled>Continuar →</button>
+          </div>
+
+          <!-- exterior -->
+          <div class="panel" id="panel-exterior" hidden>
+            <h3 class="q">Exterior</h3>
+            <div class="subq">
+              <p class="sublabel">Piscina</p>
+              <div class="opciones opciones-2 compact" data-group="ext_piscina" data-multi="exterior">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Cochera</p>
+              <div class="opciones opciones-2 compact" data-group="ext_cochera" data-multi="exterior">
+                <button type="button" class="opt">Cubierta</button>
+                <button type="button" class="opt">Pérgola</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Complementarios</p>
+              <div class="opciones compact" data-group="ext_complementarios" data-multi="exterior">
+                <button type="button" class="opt">Ninguno</button>
+                <button type="button" class="opt">Baño exterior</button>
+                <button type="button" class="opt">Depósito exterior</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="exterior" disabled>Continuar →</button>
+          </div>
+
+          <!-- municipio (ambas ramas) -->
+          <div class="panel" id="panel-municipio" hidden>
+            <h3 class="q">¿Dónde está el proyecto o inmueble?</h3>
+            <div class="opciones" data-group="municipio">
+              <button type="button" class="opt">Vicente López</button>
+              <button type="button" class="opt">San Isidro</button>
+              <button type="button" class="opt">Tigre</button>
+              <button type="button" class="opt">General San Martín</button>
+              <button type="button" class="opt">Escobar</button>
+              <button type="button" class="opt">San Fernando</button>
+            </div>
+          </div>
+
+          <!-- datos (ambas ramas) -->
+          <div class="panel" id="panel-datos" hidden>
+            <h3 class="q">Sigamos tu camino juntos.</h3>
+            <p class="panel-note">Esto es lo que vamos a mirar en la primera conversación. Dejanos tu nombre y seguimos por WhatsApp.</p>
+            <div class="resumen" id="resumen"></div>
+            <div class="campos-grid">
+              <div class="campo">
+                <label for="nombre">Nombre completo</label>
+                <input type="text" id="nombre" placeholder="Tu nombre" required>
+              </div>
+              <div class="campo">
+                <label for="comentario">Comentario opcional</label>
+                <textarea id="comentario" rows="2" placeholder="Algo más que debamos saber"></textarea>
+              </div>
+            </div>
+
+            <div class="recordatorio" id="recordatorio">
+              <b>Luego de consultar, datos que necesitás tener a mano</b>
+              <ul id="recLista"></ul>
+            </div>
+
+            <button type="button" class="btn btn-dark send-wa" id="sendWa" disabled>Enviar consulta por WhatsApp ↗</button>
+            <p class="sin-cargo-chico">La consulta inicial es sin cargo.</p>
+          </div>
+        </div>
+
+        <div class="wizard-foot">
+          <button type="button" class="link-back" id="backBtn" disabled>← Anterior</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
