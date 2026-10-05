@@ -1,34 +1,664 @@
 1:"$Sreact.fragment"
 2:I[7121,[],""]
 3:I[4581,[],""]
-4:I[2864,["772","static/chunks/772-b146113f927e6617.js","974","static/chunks/app/page-acf2043283b59ff0.js"],"ConsultationProvider"]
-5:I[1953,["772","static/chunks/772-b146113f927e6617.js","974","static/chunks/app/page-acf2043283b59ff0.js"],"RevealObserver"]
-6:I[7549,["772","static/chunks/772-b146113f927e6617.js","974","static/chunks/app/page-acf2043283b59ff0.js"],"Header"]
-7:I[8437,["772","static/chunks/772-b146113f927e6617.js","974","static/chunks/app/page-acf2043283b59ff0.js"],"Image"]
-8:I[9523,["772","static/chunks/772-b146113f927e6617.js","974","static/chunks/app/page-acf2043283b59ff0.js"],"ServicesSection"]
-15:I[7123,[],"default",1]
+c:I[7123,[],"default",1]
 :HL["/_next/static/media/1a4aa50920b5315c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/7cda93531bb843ef.css","style"]
-0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7cda93531bb843ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"es","children":["$","body",null,{"className":"__variable_5afde0 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","main",null,{"children":[[["$","section",null,{"className":"hero","id":"inicio","children":[["$","$L7",null,{"className":"hero-bg","src":"/images/reference-01.webp","alt":"Relevamiento de obra de Grafo","fill":true,"priority":true,"sizes":"100vw"}],["$","div",null,{"className":"fade"}],["$","div",null,{"className":"wrap content","children":[["$","div",null,{"className":"eyebrow light","children":"Arquitectura · Planos municipales · Zona Norte"}],["$","h1",null,{"children":["Claridad para proyectar.",["$","br",null,{}],"Criterio para avanzar."]}],["$","p",null,{"className":"lead","children":"Ordenamos lo complejo para que cada decisión, de un plano municipal a una vivienda, tenga fundamento, dirección y un próximo paso claro."}],["$","div",null,{"className":"ctas","children":[["$","a",null,{"href":"#contacto","className":"btn btn-light","children":"Evaluar mi caso"}],["$","a",null,{"href":"#servicios","className":"btn btn-ghost-light","children":"Ver servicios ↓"}]]}],["$","div",null,{"className":"tagline","children":"La arquitectura como una herramienta para decidir mejor."}]]}]]}],["$","div",null,{"className":"cobertura","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"mat","children":["Matrícula profesional ",["$","span",null,{"children":"T-54041"}]]}],["$","div",null,{"className":"sep"}],["$","div",null,{"className":"chips","children":[["$","span","Vicente López",{"className":"chip","children":"Vicente López"}],["$","span","San Isidro",{"className":"chip","children":"San Isidro"}],["$","span","Tigre",{"className":"chip","children":"Tigre"}],["$","span","General San Martín",{"className":"chip","children":"General San Martín"}],["$","span","Escobar",{"className":"chip","children":"Escobar"}],["$","span","San Fernando",{"className":"chip","children":"San Fernando"}]]}]]}]}]],["$","$L8",null,{}],["$","section",null,{"className":"cuando","children":["$","div",null,{"className":"wrap reveal","children":[["$","div",null,{"className":"eyebrow light","children":"Cuándo consultar"}],["$","h2",null,{"children":"Tal vez tu caso empieza acá."}],["$","p",null,{"className":"section-lead","children":"No hace falta conocer el nombre del trámite. Con una descripción honesta de la situación podemos orientarte."}],["$","div",null,{"className":"situaciones","children":[["$","article","Construcción no declarada",{"className":"situacion","children":[["$","h3",null,{"children":"Construcción no declarada"}],["$","p",null,{"children":"Lo construido no coincide con los planos disponibles."}]]}],["$","article","Venta o escritura",{"className":"situacion","children":[["$","h3",null,{"children":"Venta o escritura"}],["$","p",null,{"children":"La documentación condiciona una operación o escritura."}]]}],["$","article","Obra nueva o ampliación",{"className":"situacion","children":["$L9","$La"]}],"$Lb","$Lc","$Ld"]}]]}]}],"$Le","$Lf","$L10","$L11"]}],"$L12"]}],null,"$L13"]}],{},null,false,null]},null,false,null],"$L14",false]],"m":"$undefined","G":["$15",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"eOogmzdnBpwMYh6nGtmRf"}
-16:I[4873,["772","static/chunks/772-b146113f927e6617.js","974","static/chunks/app/page-acf2043283b59ff0.js"],"ProjectsSection"]
-17:I[7133,["772","static/chunks/772-b146113f927e6617.js","974","static/chunks/app/page-acf2043283b59ff0.js"],"ContactWizard"]
-19:I[484,[],"OutletBoundary"]
-1a:"$Sreact.suspense"
-1c:I[484,[],"ViewportBoundary"]
-1e:I[484,[],"MetadataBoundary"]
-9:["$","h3",null,{"children":"Obra nueva o ampliación"}]
-a:["$","p",null,{"children":"Necesitás verificar indicadores antes de construir."}]
-b:["$","article","Final de obra",{"className":"situacion","children":[["$","h3",null,{"children":"Final de obra"}],["$","p",null,{"children":"La obra terminó y falta cerrar el expediente."}]]}]
-c:["$","article","Observaciones municipales",{"className":"situacion","children":[["$","h3",null,{"children":"Observaciones municipales"}],["$","p",null,{"children":"Hay que ordenar una respuesta técnica y documental."}]]}]
-d:["$","article","No sé por dónde empezar",{"className":"situacion","children":[["$","h3",null,{"children":"No sé por dónde empezar"}],["$","p",null,{"children":"Revisamos antecedentes y te ayudamos a ordenar la situación."}]]}]
-e:["$","$L16",null,{}]
-f:["$","section",null,{"className":"proceso","children":["$","div",null,{"className":"wrap reveal","children":[["$","div",null,{"className":"eyebrow","children":[["$","span",null,{"className":"num","children":"04"}],"Cómo trabajamos"]}],["$","h2",null,{"children":"Una secuencia clara, de punta a punta."}],["$","div",null,{"className":"pasos","children":[["$","article","01",{"className":"paso","children":[["$","span",null,{"className":"n","children":"01"}],["$","h3",null,{"children":"Consulta inicial"}],["$","p",null,{"children":"Ubicación, objetivo y estado conocido de la propiedad o el proyecto."}]]}],["$","article","02",{"className":"paso","children":[["$","span",null,{"className":"n","children":"02"}],["$","h3",null,{"children":"Relevamiento"}],["$","p",null,{"children":"Medimos y reunimos los antecedentes disponibles."}]]}],["$","article","03",{"className":"paso","children":[["$","span",null,{"className":"n","children":"03"}],["$","h3",null,{"children":"Análisis"}],["$","p",null,{"children":"Contrastamos la situación real con la normativa o el programa."}]]}],["$","article","04",{"className":"paso","children":[["$","span",null,{"className":"n","children":"04"}],["$","h3",null,{"children":"Documentación"}],["$","p",null,{"children":"Producimos las piezas del alcance acordado."}]]}],["$","article","05",{"className":"paso","children":[["$","span",null,{"className":"n","children":"05"}],["$","h3",null,{"children":"Presentación y seguimiento"}],["$","p",null,{"children":"Organizamos el ingreso y respondemos observaciones incluidas."}]]}]]}]]}]}]
-10:["$","section",null,{"className":"conoce","id":"estudio","children":["$","div",null,{"className":"wrap reveal","children":["$","div",null,{"className":"grid","children":[["$","div",null,{"className":"foto","children":["$","$L7",null,{"src":"/images/reference-06.webp","alt":"Facundo Ojeda","fill":true,"sizes":"(max-width: 820px) 100vw, 40vw"}]}],["$","div",null,{"children":[["$","div",null,{"className":"eyebrow light","children":[["$","span",null,{"className":"num","children":"05"}],"Conocé a Grafo"]}],["$","h2",null,{"children":["El estudio pone el proceso",["$","br",null,{}],"por delante de las promesas."]}],["$","p",null,{"className":"bio","children":"Grafo está dirigido por Facundo Ojeda, Arquitecto y Maestro Mayor de Obras. Su vínculo con la construcción empezó a los 15 años en una escuela técnica, y luego lo complementó con la carrera de Arquitectura. Entre los 20 y los 28 trabajó en relación de dependencia en una empresa constructora, en el área técnica, adquiriendo experiencia práctica en cómputos, documentación técnica, instalaciones y seguimiento de obras."}],["$","p",null,{"className":"bio","children":"Hoy trabaja de forma independiente en proyectos, documentación técnica, gestiones municipales y asesoramiento profesional, escuchando primero, para acompañar con soluciones claras y técnicamente posibles."}],["$","div",null,{"className":"badges","children":[["$","div",null,{"className":"badge","children":[["$","b",null,{"children":"T-54041"}],["$","span",null,{"children":"Matrícula profesional"}]]}],["$","div",null,{"className":"badge","children":[["$","b",null,{"children":"6"}],["$","span",null,{"children":"Municipios de cobertura"}]]}]]}],["$","div",null,{"className":"municipios-list","children":"Vicente López · San Isidro · Tigre · General San Martín · Escobar · San Fernando"}],["$","div",null,{"className":"prensa","children":[["$","span",null,{"children":"📰"}],["$","span",null,{"children":[["$","b",null,{"children":"Mención en Diario Clarín (ARQ)"}],": intervención destacada durante su formación en FADU, agosto 2024."]}]]}]]}]]}]}]}]
-11:["$","$L17",null,{}]
-12:[["$","footer",null,{"className":"site","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"className":"footer-col","children":[["$","a",null,{"href":"#inicio","children":["$","span",null,{"className":"brand","children":[["$","svg",null,{"className":"logo-mark","viewBox":"83.934 425.818 486.1 275.73","aria-hidden":"true","children":["$","g",null,{"fill":"currentColor","children":[["$","polygon",null,{"points":"449.857 507.396 570.034 507.396 420.473 609.139 420.473 701.548 83.934 701.548 83.934 528.471 233.498 425.818 570.034 425.818 449.857 507.396"}],["$","circle",null,{"cx":"511.323","cy":"642.837","r":"58.711","transform":"translate(-304.791 549.843) rotate(-45)"}]]}]}],["$","span",null,{"className":"wordmark","children":[["$","b",null,{"children":"GRAFO"}],["$","span",null,{"children":"ESTUDIO"}]]}]]}]}],["$","div",null,{"className":"footer-credential","children":["Facundo Ojeda · M.M.O.",["$","br",null,{}],"Matrícula profesional T-54041"]}]]}],["$","div",null,{"className":"footer-col","children":[["$","b",null,{"children":"Contacto"}],["$","a",null,{"href":"mailto:ojedaf.arq@gmail.com","children":"ojedaf.arq@gmail.com"}],["$","a",null,{"href":"tel:+541132273109","children":"+54 11 3227-3109"}],["$","div",null,{"children":"Benavidez, Tigre"}]]}],["$","div",null,{"className":"footer-col","children":[["$","b",null,{"children":"Estudio"}],["$","a",null,{"href":"#servicios","children":"Servicios"}],["$","a",null,{"href":"#proyectos","children":"Proyectos"}],["$","a",null,{"href":"#estudio","children":"Estudio"}]]}],["$","div",null,{"className":"footer-col","children":[["$","b",null,{"children":"Seguinos"}],["$","a",null,{"href":"https://www.instagram.com/foarq_/","target":"_blank","rel":"noopener noreferrer","className":"social-link","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","aria-hidden":"true","children":[["$","rect",null,{"x":"3","y":"3","width":"18","height":"18","rx":"5"}],["$","circle",null,{"cx":"12","cy":"12","r":"4"}],["$","circle",null,{"cx":"17.2","cy":"6.8","r":"1","fill":"currentColor","stroke":"none"}]]}],"Instagram"]}],["$","a",null,{"href":"https://wa.me/5491132273109?text=Hola%20Grafo%2C%20vi%20su%20web%20y%20quiero%20hacer%20una%20consulta.","target":"_blank","rel":"noopener noreferrer","className":"social-link","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":[["$","path",null,{"d":"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"}],["$","path",null,{"d":"M12.001 2C6.478 2 2 6.477 2 12c0 1.876.52 3.632 1.42 5.13L2 22l4.996-1.312A9.947 9.947 0 0 0 12.001 22C17.524 22 22 17.523 22 12S17.524 2 12.001 2zm0 18.2a8.166 8.166 0 0 1-4.166-1.14l-.299-.177-2.965.778.79-2.891-.194-.297A8.171 8.171 0 0 1 3.8 12c0-4.529 3.673-8.2 8.201-8.2 4.529 0 8.2 3.671 8.2 8.2 0 4.528-3.671 8.2-8.2 8.2z"}]]}],"WhatsApp"]}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":"© Grafo Estudio · Todos los derechos reservados"}],["$","a",null,{"href":"#inicio","children":"Volver arriba ↑"}],["$","a",null,{"className":"desarrollado","href":"https://windstudies.com","target":"_blank","rel":"noopener noreferrer","children":[["$","span",null,{"children":"Desarrollado por"}],["$","$L7",null,{"src":"/images/windstudies.png","alt":"WindStudies","width":432,"height":66}]]}]]}]]}]}],["$","div",null,{"className":"floating","children":["$","a",null,{"href":"https://wa.me/5491132273109?text=Hola%20Grafo%2C%20vi%20su%20web%20y%20quiero%20hacer%20una%20consulta.","target":"_blank","rel":"noopener noreferrer","aria-label":"WhatsApp de Grafo","children":"$L18"}]}]]
-13:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
-14:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L1f"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-18:["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","children":[["$","path",null,{"d":"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"}],["$","path",null,{"d":"M12.001 2C6.478 2 2 6.477 2 12c0 1.876.52 3.632 1.42 5.13L2 22l4.996-1.312A9.947 9.947 0 0 0 12.001 22C17.524 22 22 17.523 22 12S17.524 2 12.001 2zm0 18.2a8.166 8.166 0 0 1-4.166-1.14l-.299-.177-2.965.778.79-2.891-.194-.297A8.171 8.171 0 0 1 3.8 12c0-4.529 3.673-8.2 8.201-8.2 4.529 0 8.2 3.671 8.2 8.2 0 4.528-3.671 8.2-8.2 8.2z"}]]}]
-1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1b:null
-1f:[["$","title","0",{"children":"Grafo Estudio · Arquitectura y planos municipales"}],["$","meta","1",{"name":"description","content":"Grafo Estudio. Arquitectura, planos municipales y gestión de regularización en Vicente López, San Isidro, Tigre, General San Martín, Escobar y San Fernando."}],["$","meta","2",{"property":"og:title","content":"Grafo Estudio — Arquitectura clara"}],["$","meta","3",{"property":"og:description","content":"Decisiones que se pueden construir. Proyecto arquitectónico y planos municipales en Zona Norte."}],["$","meta","4",{"property":"og:image","content":"https://estudiografo.com/og.jpg"}],["$","meta","5",{"property":"og:image:width","content":"1200"}],["$","meta","6",{"property":"og:image:height","content":"630"}],["$","meta","7",{"property":"og:image:alt","content":"Grafo Estudio — Arquitectura clara"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Grafo Estudio — Arquitectura clara"}],["$","meta","10",{"name":"twitter:description","content":"Decisiones que se pueden construir. Proyecto arquitectónico y planos municipales en Zona Norte."}],["$","meta","11",{"name":"twitter:image","content":"https://estudiografo.com/og.jpg"}]]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/6c428a62ad33d618.css","style"]
+4:T21c7,<header class="site" id="siteHeader">
+  <div class="nav-row">
+    <a href="#inicio" class="brand" aria-label="Grafo Estudio, inicio"><svg role="img" aria-label="Grafo Estudio" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1158.945 302.11"> <g> <g> <g> <polygon points="665.824 155.022 665.824 223.664 650.354 223.664 650.354 167.904 602.005 167.904 602.005 155.022 665.824 155.022" fill="currentColor"/> <path d="M561.439,188.946c-3.98-7.686-5.97-17.773-5.97-30.248v-3.979c0-9.33,1.155-17.303,3.463-23.919,2.308-6.615,5.705-12.031,10.188-16.259,4.485-4.228,9.87-7.308,16.159-9.265,6.275-1.957,13.387-2.936,21.333-2.936,6.156,0,11.928.574,17.3,1.709,5.386,1.136,10.07,3.053,14.036,5.768,3.967,2.7,7.045,6.211,9.233,10.491,2.175,4.279,3.263,9.512,3.263,15.698h15.376c0-7.817-1.379-14.628-4.126-20.422-2.76-5.806-6.727-10.622-11.928-14.472-5.187-3.849-11.41-6.746-18.64-8.703-7.243-1.944-15.417-2.923-24.517-2.923-14.607,0-26.879,2.518-36.815,7.556-9.937,5.049-17.433,12.553-22.488,22.51-5.068,9.956-7.602,22.313-7.602,37.059,0,22.692,5.505,39.551,16.53,50.59,10.454,10.465,25.711,15.959,45.758,16.481v-12.853c-9.035-.3-16.876-2.009-23.549-5.141-7.363-3.47-13.042-9.043-17.009-16.742h.004Z" fill="currentColor"/> </g> <path d="M758.17,165.727c6.999-2.765,12.705-7.411,16.998-13.999,4.294-6.588,6.411-14.646,6.411-24.175,0-7.294-1.412-13.823-4.294-19.587-2.882-5.764-7.176-10.234-12.881-13.587-5.706-3.353-12.94-4.999-21.646-4.999h-69.171v79.112h69.583l26.351,55.172h16.704l-28.057-57.937ZM741.23,155.14h-52.467v-52.467h52.467c5.529,0,10.117,1,13.822,3.059,3.765,2,6.588,4.882,8.47,8.529,1.941,3.647,2.882,8.058,2.882,13.293,0,8.587-2.235,15.352-6.705,20.234-4.529,4.941-10.646,7.352-18.469,7.352Z" fill="currentColor"/> <path d="M866.814,89.383h-20.378l-52.484,134.3h15.562l13.651-35.436h.053l5.148-13.32,4.179-10.822,13.122-34.004c.889-2.35,1.951-5.187,3.171-8.511,1.22-3.337,2.428-6.688,3.648-10.092,1.22-3.391,2.216-6.323,2.985-8.808h1.34c.902,2.229,1.831,4.702,2.786,7.444.968,2.742,1.923,5.444,2.893,8.12.955,2.675,1.818,5.066,2.587,7.147.77,2.093,1.353,3.661,1.738,4.702l13.12,34.004.278.716,22.938,58.862h16.332l-52.669-134.3h.001Z" fill="currentColor"/> <path d="M927.221,89.383v13.068h92.868v-13.068h-92.868ZM927.221,150.436v73.247h15.191v-60.179h70.752v-13.068h-85.943,0Z" fill="currentColor"/> <path d="M1093.387,223.683c-13.587,0-25.281-2.487-35.086-7.466-9.805-4.977-17.336-12.443-22.591-22.398-5.257-9.952-7.883-22.365-7.883-37.235,0-14.994,2.626-27.437,7.883-37.33,5.253-9.89,12.785-17.324,22.591-22.303,9.805-4.977,21.499-7.467,35.086-7.467,13.712,0,25.472,2.49,35.278,7.467,9.805,4.979,17.303,12.413,22.493,22.303,5.191,9.894,7.787,22.337,7.787,37.33,0,14.87-2.595,27.283-7.787,37.235-5.19,9.956-12.688,17.421-22.492,22.398-9.805,4.979-21.565,7.466-35.278,7.466h0ZM1093.387,210.83c7.56,0,14.418-.975,20.571-2.931,6.153-1.952,11.406-5.071,15.764-9.356,4.356-4.282,7.72-9.702,10.093-16.255,2.371-6.55,3.556-14.427,3.556-23.627v-3.97c0-9.323-1.186-17.262-3.556-23.816-2.373-6.55-5.737-11.97-10.093-16.255-4.358-4.282-9.612-7.401-15.764-9.356-6.152-1.952-13.01-2.93-20.571-2.93s-14.389.978-20.476,2.93c-6.09,1.955-11.312,5.074-15.667,9.356-4.359,4.286-7.723,9.705-10.094,16.255-2.373,6.554-3.556,14.493-3.556,23.816v3.97c0,9.2,1.185,17.076,3.556,23.627,2.371,6.554,5.735,11.973,10.094,16.255,4.356,4.286,9.579,7.403,15.667,9.356,6.086,1.955,12.911,2.931,20.476,2.931h0Z" fill="currentColor"/> </g> <g> <path d="M547.351,301.96v-49.835h32.977v3.912h-28.39v18.815h25.018v3.912h-25.018v19.286h28.39v3.912h-32.977Z" fill="currentColor"/> <path d="M647.061,286.578c.18,2.104.663,3.891,1.45,5.359.785,1.469,1.797,2.664,3.035,3.584,1.236.921,2.664,1.589,4.282,2.004,1.619.416,3.349.625,5.193.625,2.156,0,4.022-.263,5.597-.789,1.574-.526,2.854-1.238,3.844-2.137.99-.898,1.721-1.939,2.192-3.123.471-1.184.708-2.434.708-3.749,0-1.841-.427-3.33-1.282-4.471-.854-1.139-1.967-2.071-3.337-2.793-1.371-.723-2.945-1.304-4.721-1.743-1.776-.438-3.597-.865-5.461-1.282-1.867-.415-3.687-.91-5.463-1.479-1.776-.568-3.349-1.336-4.719-2.301-1.372-.965-2.484-2.204-3.339-3.715-.854-1.513-1.28-3.43-1.28-5.753,0-1.621.347-3.199,1.045-4.734.696-1.534,1.73-2.893,3.102-4.076,1.37-1.183,3.09-2.126,5.159-2.827,2.067-.701,4.45-1.052,7.149-1.052,2.741,0,5.135.372,7.181,1.118,2.045.747,3.742,1.765,5.092,3.058,1.349,1.294,2.361,2.793,3.035,4.503.674,1.71,1.011,3.529,1.011,5.458h-4.383c0-1.797-.327-3.354-.978-4.669-.652-1.315-1.54-2.388-2.664-3.221-1.124-.832-2.405-1.447-3.845-1.841-1.44-.394-2.922-.592-4.45-.592-2.339,0-4.305.317-5.902.952-1.595.636-2.865,1.458-3.809,2.465-.944,1.009-1.596,2.128-1.956,3.354-.36,1.227-.427,2.455-.202,3.682.269,1.534.897,2.762,1.888,3.682.988.921,2.202,1.677,3.641,2.268,1.437.593,3.023,1.076,4.753,1.447,1.73.373,3.495.768,5.294,1.183,1.797.416,3.541.911,5.226,1.479,1.686.569,3.179,1.337,4.485,2.302,1.303.965,2.349,2.203,3.135,3.714.786,1.513,1.181,3.408,1.181,5.688,0,4.383-1.552,7.781-4.654,10.191-3.102,2.41-7.463,3.616-13.082,3.616-2.519,0-4.856-.317-7.013-.952-2.158-.635-4.024-1.6-5.598-2.893-1.574-1.293-2.799-2.893-3.675-4.8-.877-1.906-1.316-4.152-1.316-6.739h4.453Z" fill="currentColor"/> <path d="M740.225,252.126h35.335v3.912h-15.374v46.073h-4.585v-46.073h-15.375v-3.912Z" fill="currentColor"/> <path d="M837.84,252.126h4.585v28.932c0,6.024,1.122,10.363,3.372,13.015,2.247,2.654,5.866,3.979,10.857,3.979,2.606,0,4.821-.348,6.643-1.046,1.82-.696,3.292-1.753,4.417-3.169,1.122-1.417,1.933-3.179,2.428-5.294.493-2.112.741-4.607.741-7.485v-28.932h4.585v30.281c0,6.339-1.563,11.184-4.686,14.532-3.126,3.349-7.834,5.023-14.127,5.023-6.339,0-11.059-1.708-14.162-5.124-3.103-3.416-4.652-8.227-4.652-14.431v-30.281h0Z" fill="currentColor"/> <path d="M937.751,301.96v-49.835h16.589c1.349,0,2.674.034,3.978.103,1.304.07,2.586.232,3.845.485,1.258.254,2.484.635,3.675,1.142s2.349,1.177,3.474,2.007c1.619,1.201,2.942,2.665,3.978,4.395,1.034,1.731,1.855,3.554,2.461,5.469.607,1.915,1.033,3.853,1.28,5.813.246,1.963.371,3.773.371,5.434s-.1,3.346-.303,5.052c-.203,1.708-.53,3.381-.978,5.018-.45,1.638-1.045,3.208-1.788,4.707-.741,1.5-1.675,2.873-2.799,4.118-1.124,1.292-2.35,2.331-3.676,3.115-1.326.784-2.72,1.395-4.18,1.834-1.461.438-2.98.739-4.553.9-1.574.162-3.169.242-4.788.242h-16.589.002ZM942.336,297.947h10.992c2.067,0,4.012-.127,5.832-.381,1.821-.253,3.676-.888,5.564-1.904,1.619-.83,2.944-1.96,3.978-3.392,1.034-1.43,1.855-2.987,2.461-4.672.607-1.684,1.034-3.449,1.28-5.295.246-1.845.372-3.622.372-5.329,0-1.799-.112-3.634-.337-5.502-.226-1.869-.652-3.644-1.28-5.329-.631-1.685-1.484-3.23-2.562-4.638-1.079-1.406-2.473-2.572-4.181-3.495-1.44-.784-3.147-1.291-5.125-1.522-1.979-.231-3.979-.346-6.001-.346h-10.992v41.805h-.001Z" fill="currentColor"/> <path d="M1039.681,301.96v-49.835h4.585v49.835h-4.585Z" fill="currentColor"/> <path d="M1106.547,276.622c0-3.55.483-5.749,1.45-8.852.966-3.102,2.393-5.81,4.282-8.125,1.888-2.314,4.225-4.148,7.013-5.496,2.786-1.349,6.001-2.023,9.642-2.023,3.777,0,7.091.663,9.946,1.989,2.854,1.327,5.236,3.147,7.149,5.461,1.91,2.315,3.349,5.035,4.316,8.16.966,3.126,1.449,5.334,1.449,8.884,0,3.506-.483,6.8-1.449,9.879-.967,3.079-2.394,5.776-4.282,8.092-1.888,2.315-4.249,4.149-7.082,5.497-2.832,1.347-6.115,2.022-9.846,2.022s-7.012-.675-9.845-2.022c-2.832-1.349-5.193-3.181-7.082-5.497-1.888-2.314-3.304-5.013-4.248-8.092-.944-3.079-1.417-6.373-1.417-9.879v.002ZM1129.207,298.202c3.146,0,5.855-.596,8.125-1.788,2.27-1.191,4.136-2.775,5.598-4.754,1.461-1.977,2.539-4.27,3.237-6.878.696-2.606,1.045-5.327,1.045-8.159,0-3.372-.416-5.265-1.248-7.94-.833-2.674-2.034-4.958-3.608-6.846-1.574-1.888-3.485-3.325-5.732-4.315-2.248-.99-4.765-1.484-7.553-1.484-3.102,0-5.788.607-8.058,1.82-2.271,1.213-4.137,2.822-5.598,4.821-1.461,2.001-2.539,4.305-3.236,6.913-.699,2.607-1.046,4.198-1.046,7.029,0,2.877.347,5.621,1.046,8.227.696,2.607,1.776,4.9,3.236,6.878,1.46,1.978,3.327,3.552,5.598,4.721,2.27,1.169,5.001,1.753,8.193,1.753h.001Z" fill="currentColor"/> </g> </g> <g> <polygon points="400.932 89.383 532.607 89.383 368.737 200.86 368.737 302.11 0 302.11 0 112.474 163.873 0 532.607 0 400.932 89.383" fill="currentColor"/> <circle cx="468.279" cy="237.782" r="64.328" fill="currentColor"/> </g> </svg></a>
+    <nav class="main">
+      <a href="#servicios">Servicios</a>
+      <a href="#proyectos">Proyectos</a>
+      <a href="#estudio">Quiénes somos</a>
+      <a href="#contacto">Contacto</a>
+      <a href="#contacto" class="nav-cta">Trabajemos juntos</a>
+    </nav>
+    <a href="#contacto" class="btn btn-dark">Trabajemos juntos</a>
+    <button class="burger" id="burgerBtn" aria-label="Abrir menú">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6c428a62ad33d618.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"es","children":["$","body",null,{"className":"__variable_fab2aa __variable_d8ebd1","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"],null,"$La"]}],{},null,false,null]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"AJyZEdru8UIFeRFjWYnbQ"}
+19:I[2593,["974","static/chunks/app/page-4d7c706e49c8ebe6.js"],""]
+1a:I[484,[],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[484,[],"ViewportBoundary"]
+1f:I[484,[],"MetadataBoundary"]
+d:T8c3,<section id="servicios" class="claro">
+  <div class="wrap reveal">
+    <h2>Servicios con un alcance claro desde el principio.</h2>
+    <div class="servicios-grid" data-swipe="servicios">
+      <div class="servicio-card">
+        <div class="tag">Gestión y regularización</div>
+        <h3>Planos municipales</h3>
+        <p>Primero diagnosticamos. Después definimos qué trámite y documentación corresponden según el inmueble y el municipio.</p>
+        <ul>
+          <li>Relevamiento y antecedentes</li>
+          <li>Análisis normativo</li>
+          <li>Expediente y seguimiento</li>
+        </ul>
+        <a href="#contacto" class="btn btn-musgo go" data-servicio="Planos municipales">Evaluar mi propiedad ↗</a>
+      </div>
+      <div class="servicio-card">
+        <div class="tag">Diseño y documentación</div>
+        <h3>Proyecto arquitectónico</h3>
+        <p>Convertimos necesidades, condicionantes del sitio y recursos disponibles en una propuesta definida y construible.</p>
+        <ul>
+          <li>Programa y anteproyecto</li>
+          <li>Plantas, cortes y vistas</li>
+          <li>Definiciones y próximos pasos</li>
+        </ul>
+        <a href="#contacto" class="btn btn-musgo go" data-servicio="Proyecto arquitectónico">Contarnos el proyecto ↗</a>
+      </div>
+      <div class="servicio-card">
+        <div class="tag">Relevamiento, diseño y documentación</div>
+        <h3>Reforma o ampliación</h3>
+        <p>Relevamos lo existente y proyectamos la intervención, con la documentación necesaria para ejecutarla y, si corresponde, regularizarla.</p>
+        <ul>
+          <li>Relevamiento del estado actual</li>
+          <li>Anteproyecto de la reforma</li>
+          <li>Documentación para obra</li>
+        </ul>
+        <a href="#contacto" class="btn btn-musgo go" data-servicio="Reforma o ampliación">Contarnos la reforma ↗</a>
+      </div>
+    </div>
+    <div class="swipe-nav" data-swipe-nav="servicios">
+      <button type="button" data-swipe-prev aria-label="Anterior">←</button>
+      <span class="swipe-count"></span>
+      <button type="button" data-swipe-next aria-label="Siguiente">→</button>
+      <span class="swipe-hint">Deslizá →</span>
+    </div>
+  </div>
+</section>
+e:T106b,<section class="cuando oscuro">
+  <div class="planos" aria-hidden="true"><i></i><i></i></div>
+  <div class="wrap reveal">
+    <div class="eyebrow">Cuándo consultar</div>
+    <h2>Tal vez tu caso <span class="tono">empieza acá.</span></h2>
+    <p class="bajada">No hace falta conocer el nombre del trámite. Con una descripción honesta de la situación podemos orientarte. <b>La consulta inicial es sin cargo.</b></p>
+
+    <div class="pestanas" role="tablist">
+      <button type="button" class="pestana activa" data-tab="municipal" role="tab">Planos municipales</button>
+      <button type="button" class="pestana" data-tab="proyecto" role="tab">Proyecto arquitectónico</button>
+      <button type="button" class="pestana" data-tab="reforma" role="tab">Reforma o ampliación</button>
+    </div>
+
+    <div class="via" data-panel-tab="municipal">
+      <div class="situaciones" data-swipe="sit1">
+        <div class="situacion"><h3>Construcción no declarada</h3><p>Lo construido no coincide con los planos disponibles.</p></div>
+        <div class="situacion"><h3>Venta o escritura</h3><p>La documentación condiciona una operación o escritura.</p></div>
+        <div class="situacion"><h3>Final de obra</h3><p>La obra terminó y falta cerrar el expediente.</p></div>
+        <div class="situacion"><h3>Observaciones municipales</h3><p>Hay que ordenar una respuesta técnica y documental.</p></div>
+      </div>
+      <div class="swipe-nav" data-swipe-nav="sit1">
+        <button type="button" data-swipe-prev aria-label="Anterior">←</button>
+        <span class="swipe-count"></span>
+        <button type="button" data-swipe-next aria-label="Siguiente">→</button>
+        <span class="swipe-hint">Deslizá →</span>
+      </div>
+      <div class="cuando-cta"><a href="#contacto" class="btn btn-light" data-servicio="Planos municipales">Consultar por gestión municipal ↗</a></div>
+    </div>
+
+    <div class="via" data-panel-tab="proyecto" hidden>
+      <div class="situaciones" data-swipe="sit2">
+        <div class="situacion"><h3>Definir una obra desde cero</h3><p>Antes de presupuestar o construir, saber qué se puede hacer.</p></div>
+        <div class="situacion"><h3>Idea preliminar</h3><p>Falta convertirla en documentación para avanzar.</p></div>
+        <div class="situacion"><h3>Quiero verlo antes de construir</h3><p>Plantas, vistas e imágenes para decidir sobre algo concreto.</p></div>
+        <div class="situacion"><h3>Coordinar especialidades</h3><p>Arquitectura, estructura e instalaciones en un mismo criterio.</p></div>
+      </div>
+      <div class="swipe-nav" data-swipe-nav="sit2">
+        <button type="button" data-swipe-prev aria-label="Anterior">←</button>
+        <span class="swipe-count"></span>
+        <button type="button" data-swipe-next aria-label="Siguiente">→</button>
+        <span class="swipe-hint">Deslizá →</span>
+      </div>
+      <div class="cuando-cta"><a href="#contacto" class="btn btn-light" data-servicio="Proyecto arquitectónico">Consultar por un proyecto ↗</a></div>
+    </div>
+
+    <div class="via" data-panel-tab="reforma" hidden>
+      <div class="situaciones" data-swipe="sit3">
+        <div class="situacion"><h3>Reforma o ampliación</h3><p>Sumar metros o reordenar circulaciones y etapas.</p></div>
+        <div class="situacion"><h3>La casa ya no funciona</h3><p>Los ambientes existen pero no acompañan cómo se vive hoy.</p></div>
+        <div class="situacion"><h3>Relevar lo existente</h3><p>No hay planos actualizados de lo que está construido.</p></div>
+        <div class="situacion"><h3>No sé por dónde empezar</h3><p>Revisamos antecedentes y te ayudamos a ordenar la situación.</p></div>
+      </div>
+      <div class="swipe-nav" data-swipe-nav="sit3">
+        <button type="button" data-swipe-prev aria-label="Anterior">←</button>
+        <span class="swipe-count"></span>
+        <button type="button" data-swipe-next aria-label="Siguiente">→</button>
+        <span class="swipe-hint">Deslizá →</span>
+      </div>
+      <div class="cuando-cta"><a href="#contacto" class="btn btn-light" data-servicio="Reforma o ampliación">Consultar por una reforma ↗</a></div>
+    </div>
+  </div>
+</section>
+5:["$","main",null,{"children":[["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"<section class=\"hero oscuro\" id=\"inicio\">\n  <div class=\"planos\" aria-hidden=\"true\"><i></i><i></i></div>\n  <div class=\"wrap content\">\n    <div class=\"eyebrow\">Arquitectura · Planos municipales · Zona Norte</div>\n    <h1>GRAFO ESTUDIO</h1>\n    <p class=\"lead\">Ordenamos lo complejo para que cada decisión, de un plano municipal a una vivienda, tenga fundamento y un próximo paso claro.</p>\n    <div class=\"ctas\">\n      <a href=\"#contacto\" class=\"btn btn-light\">Evaluar mi caso</a>\n      <a href=\"#servicios\" class=\"btn btn-ghost-light\">Ver servicios</a>\n    </div>\n  </div>\n</section>\n"}}],["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}]
+6:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"<footer class=\"site\">\n  <div class=\"footer-row\">\n    <div class=\"firma\">GRAFO ESTUDIO <span><span class=\"sep\">· </span>Arquitectura y planos municipales</span></div>\n    <div class=\"footer-links\">\n      <span>© Grafo Estudio</span>\n      <a href=\"#inicio\">Volver arriba ↑</a>\n      <a class=\"desarrollado\" href=\"https://windstudies.com\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Desarrollado por WindStudies\"><span>Desarrollado por</span><img src=\"/images/windstudies.png\" width=\"432\" height=\"66\" alt=\"WindStudies\" loading=\"lazy\"></a>\n    </div>\n  </div>\n</footer>\n"}}]
+17:T518,<div class="floating">
+  <a href="https://wa.me/5491132273109?text=Hola%20Grafo%2C%20vi%20su%20web%20y%20quiero%20hacer%20una%20consulta." target="_blank" rel="noopener" aria-label="WhatsApp de Grafo">
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"></path><path d="M12.001 2C6.478 2 2 6.477 2 12c0 1.876.52 3.632 1.42 5.13L2 22l4.996-1.312A9.947 9.947 0 0 0 12.001 22C17.524 22 22 17.523 22 12S17.524 2 12.001 2zm0 18.2a8.166 8.166 0 0 1-4.166-1.14l-.299-.177-2.965.778.79-2.891-.194-.297A8.171 8.171 0 0 1 3.8 12c0-4.529 3.673-8.2 8.201-8.2 4.529 0 8.2 3.671 8.2 8.2 0 4.528-3.671 8.2-8.2 8.2z"></path></svg>
+  </a>
+</div>
+7:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$17"}}]
+18:T75f,<div class="wa-burbuja" id="waBurbuja" role="dialog" aria-label="Mensaje de Facundo Ojeda" hidden>
+  <button type="button" class="wa-cerrar" id="waCerrar" aria-label="Cerrar">x</button>
+  <div class="wa-quien">
+    <span class="wa-avatar"><img src="/images/landing/landing-55860cf9c370.jpg" alt="Arq. Facundo Ojeda"><i aria-label="En línea"></i></span>
+    <div>
+      <b>Arq. Facundo Ojeda</b>
+      <small>Grafo Estudio · Zona Norte</small>
+    </div>
+  </div>
+  <p><strong>¡Hola!</strong> soy Facundo Ojeda. Puedo ayudarte con gestiones municipales, proyectos y reformas.</p>
+  <a href="https://wa.me/5491132273109?text=Hola%20Facundo%2C%20vi%20la%20web%20de%20Grafo%20y%20quiero%20hacer%20una%20consulta%20sin%20cargo." target="_blank" rel="noopener" class="wa-cta"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"></path><path d="M12.001 2C6.478 2 2 6.477 2 12c0 1.876.52 3.632 1.42 5.13L2 22l4.996-1.312A9.947 9.947 0 0 0 12.001 22C17.524 22 22 17.523 22 12S17.524 2 12.001 2zm0 18.2a8.166 8.166 0 0 1-4.166-1.14l-.299-.177-2.965.778.79-2.891-.194-.297A8.171 8.171 0 0 1 3.8 12c0-4.529 3.673-8.2 8.201-8.2 4.529 0 8.2 3.671 8.2 8.2 0 4.528-3.671 8.2-8.2 8.2z"></path></svg>Consultá sin cargo</a>
+</div>
+8:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$18"}}]
+9:["$","$L19",null,{"src":"/scripts/grafo-landing.js","strategy":"afterInteractive"}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+b:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L20"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+21:T8af,<section id="proyectos" class="claro">
+  <div class="wrap reveal">
+    <div class="eyebrow">Obras y proyectos</div>
+    <div class="proyecto-head">
+      <h2>Trabajo real, <span class="tono">del papel a la obra.</span></h2>
+      <p class="lead">Cada obra abre una galería con el proyecto, los renders y las fotos de la ejecución.</p>
+    </div>
+
+    <div class="obras-grid" data-swipe="obras">
+      <button type="button" class="obra-card destacada" data-gallery="marino">
+        <img src="/images/landing/landing-d7bc8ab19282.jpg" alt="Casa Marino, Benavidez">
+        <span class="ver-mas">10 imágenes ↗</span>
+        <span class="info">
+          <b>Casa Marino</b>
+          <span>Benavidez, Tigre · 2025 / 2026</span>
+          <span class="alcance">Proyecto · documentación técnica · cómputos · seguimiento de obra</span>
+        </span>
+      </button>
+      <button type="button" class="obra-card" data-gallery="ana">
+        <img src="/images/landing/landing-50d2523fc379.jpg" alt="Casa Ana, Rincón de Milberg">
+        <span class="ver-mas">8 imágenes ↗</span>
+        <span class="info"><b>Casa Ana</b><span>Rincón de Milberg, Tigre · 2019</span></span>
+      </button>
+      <button type="button" class="obra-card" data-gallery="carmen">
+        <img src="/images/landing/landing-184a6ce10688.jpg" alt="Casa Carmen, Victoria">
+        <span class="ver-mas">6 imágenes ↗</span>
+        <span class="info"><b>Casa Carmen</b><span>Victoria, Gran Buenos Aires · 2023</span></span>
+      </button>
+      <button type="button" class="obra-card" data-gallery="zarate">
+        <img src="/images/landing/landing-b055670d872a.jpg" alt="Propuesta monoambiente en Zárate">
+        <span class="ver-mas">3 imágenes ↗</span>
+        <span class="info"><b>Monoambiente en Zárate</b><span>Propuesta arquitectónica · 2018</span></span>
+      </button>
+    </div>
+    <div class="swipe-nav" data-swipe-nav="obras">
+      <button type="button" data-swipe-prev aria-label="Anterior">←</button>
+      <span class="swipe-count"></span>
+      <button type="button" data-swipe-next aria-label="Siguiente">→</button>
+      <span class="swipe-hint">Deslizá →</span>
+    </div>
+  </div>
+</section>
+f:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$21"}}]
+10:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"<div class=\"lightbox\" id=\"lightbox\" hidden>\n  <div class=\"lightbox-inner\">\n    <div class=\"lightbox-frame\">\n      <button type=\"button\" class=\"lightbox-close\" id=\"lightboxClose\">Cerrar ✕</button>\n      <span class=\"lightbox-tag\" id=\"lightboxTag\">Render</span>\n      <img id=\"lightboxImg\" src=\"\" alt=\"\">\n      <button type=\"button\" class=\"lightbox-nav prev\" id=\"lightboxPrev\" aria-label=\"Anterior\">‹</button>\n      <button type=\"button\" class=\"lightbox-nav next\" id=\"lightboxNext\" aria-label=\"Siguiente\">›</button>\n    </div>\n    <div class=\"lightbox-meta\">\n      <b id=\"lightboxTitle\"></b>\n      <span id=\"lightboxCount\"></span>\n    </div>\n  </div>\n</div>\n"}}]
+22:T88b,<section class="proceso claro">
+  <div class="wrap reveal">
+    <div class="eyebrow">Cómo trabajamos</div>
+    <h2>Una secuencia clara, <span class="tono">y lo que sostiene cada paso.</span></h2>
+    <div class="pasos" data-swipe="pasos">
+      <div class="paso">
+        <span class="n">01</span>
+        <h3>Consulta inicial <span class="sin-cargo-tag">sin cargo</span></h3>
+        <p class="claim">La información llega antes que el problema.</p>
+        <p>Ubicación, objetivo y estado conocido de la propiedad o el proyecto. Desde la primera charla sabés en qué situación estás, con la verdad completa y una alternativa sobre la mesa, aunque no sea la respuesta que esperabas.</p>
+      </div>
+      <div class="paso">
+        <span class="n">02</span>
+        <h3>Relevamiento</h3>
+        <p class="claim">Nada queda sin explicar.</p>
+        <p>Medimos y reunimos los antecedentes disponibles. Todo lo que se decide después se decide sobre datos medidos y no sobre supuestos, y se dice en palabras que se entienden.</p>
+      </div>
+      <div class="paso">
+        <span class="n">03</span>
+        <h3>Análisis</h3>
+        <p class="claim">El orden de las decisiones se respeta.</p>
+        <p>Contrastamos la situación real con la normativa o el programa. De ahí sale qué conviene resolver primero y qué después: primero se define cómo va a ser la casa, después cómo se materializa.</p>
+      </div>
+      <div class="paso">
+        <span class="n">04</span>
+        <h3>Documentación y seguimiento</h3>
+        <p class="claim">Nunca estás solo frente a una decisión.</p>
+        <p>Producimos las piezas del alcance acordado, organizamos el ingreso y respondemos las observaciones incluidas. No decidimos por vos: te damos el criterio para que elijas, y sostenemos el proceso hasta el cierre.</p>
+      </div>
+    </div>
+    <div class="swipe-nav" data-swipe-nav="pasos">
+      <button type="button" data-swipe-prev aria-label="Anterior">←</button>
+      <span class="swipe-count"></span>
+      <button type="button" data-swipe-next aria-label="Siguiente">→</button>
+      <span class="swipe-hint">Deslizá →</span>
+    </div>
+  </div>
+</section>
+11:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$22"}}]
+12:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"<section class=\"banner-tramite oscuro\">\n  <div class=\"planos izq\" aria-hidden=\"true\"><i></i><i></i></div>\n  <div class=\"wrap reveal\">\n    <div class=\"caja-chaflan\"><div class=\"dentro\">\n      <span class=\"banner-label\">Primera consulta sin cargo</span>\n      <h2>¿Tenés un trámite <span class=\"tono\">pendiente?</span></h2>\n      <p class=\"claim-linea\">El <em>diagnóstico</em> de situación y el <em>encuadre normativo</em> son sin cargo. Después, cada paso se cotiza y se habla antes.</p>\n      <a href=\"#contacto\" class=\"btn btn-light\">Consultanos ↗</a>\n    </div></div>\n  </div>\n</section>\n"}}]
+23:Td33,<section class="conoce claro" id="estudio">
+  <div class="wrap reveal">
+    <div class="grid">
+      <div class="slider foto-slider" data-auto="3000">
+        <div class="slider-track">
+          <div class="foto"><img src="/images/landing/landing-66d94a6ece06.jpg" alt="Facundo Ojeda, arquitecto"></div>
+          <div class="foto"><img src="/images/landing/landing-60d5558df63a.jpg" alt="Facundo Ojeda en obra"></div>
+          <div class="foto"><img src="/images/landing/landing-e347ddfbdc73.jpg" alt="Facundo Ojeda el día que recibió el título"></div>
+          <div class="foto"><img src="/images/landing/landing-8f10da70fdc6.jpg" alt="Facundo Ojeda revisando planos en obra con el equipo"></div>
+          <div class="foto"><img src="/images/landing/landing-4e8bae66a1f2.jpg" alt="Facundo Ojeda con la maqueta de su proyecto final"></div>
+        </div>
+        <div class="slider-nav">
+          <button type="button" data-slider-prev aria-label="Foto anterior">←</button>
+          <span class="slider-count"></span>
+          <button type="button" data-slider-next aria-label="Foto siguiente">→</button>
+        </div>
+      </div>
+      <div>
+        <div class="eyebrow">Quiénes somos</div>
+        <h2>El proceso, <span class="tono">por delante de las promesas.</span></h2>
+        <p class="claim-linea">Seriedad al <em>planificar</em>, compromiso al <em>ejecutar</em> e <em>innovación</em> donde el <em>espacio</em> lo necesita.</p>
+        <p class="bio">Grafo está dirigido por <b>Facundo Ojeda</b>, Arquitecto UBA y Maestro Mayor de Obras. Ocho años en el área técnica de una constructora antes de trabajar de forma independiente: por eso el proyecto y la obra se piensan juntos y no como dos trabajos separados.</p>
+
+        <div class="slider perfil-slider">
+          <div class="slider-track">
+            <article class="perfil-slide">
+              <span class="ps-n">01 · De dónde viene</span>
+              <p>Empezó a los 15 años en una escuela técnica, se recibió de Maestro Mayor de Obras y después completó la carrera de Arquitectura en la UBA.</p>
+            </article>
+            <article class="perfil-slide">
+              <span class="ps-n">02 · Ocho años en obra</span>
+              <p>En el área técnica de una constructora: cómputos de materiales, documentación técnica, instalaciones y seguimiento de obras.</p>
+            </article>
+            <article class="perfil-slide">
+              <span class="ps-n">03 · Cómo trabaja</span>
+              <p>Escuchar primero, entender la situación y acompañar el proceso, con soluciones claras y técnicamente posibles.</p>
+            </article>
+          </div>
+          <div class="slider-nav">
+            <button type="button" data-slider-prev aria-label="Anterior">←</button>
+            <span class="slider-count"></span>
+            <button type="button" data-slider-next aria-label="Siguiente">→</button>
+          </div>
+        </div>
+
+        <div class="datos-grilla">
+          <div><span>Matrícula</span><b>T-54041</b></div>
+          <div><span>Cobertura</span><b>6 municipios</b></div>
+          <div><span>Sede</span><b>Benavidez, Tigre</b></div>
+        </div>
+        <div class="municipios-list">Vicente López · San Isidro · Tigre · General San Martín · Escobar · San Fernando</div>
+      </div>
+    </div>
+  </div>
+</section>
+13:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$23"}}]
+24:T659,<section class="prensa-sec claro">
+  <div class="fondo-diario" aria-hidden="true"></div>
+  <div class="wrap reveal">
+    <div class="prensa-grid">
+      <div>
+        <div class="eyebrow">Antecedentes</div>
+        <h2>Publicado en el suplemento ARQ de Clarín.</h2>
+        <p class="lead">Su proyecto de Arquitectura 3 en la FADU (UBA) fue seleccionado por el suplemento ARQ del Diario Clarín en la edición del <b>4 de octubre de 2022</b>, dentro de la nota <i>Experiencias que definen una vocación</i>.</p>
+        <blockquote class="cita">
+          "Vivo la arquitectura desde otro enfoque, ya no tanto de la parte técnica como lo fue en mi formación, sino más de la parte humana y social."
+          <cite>Facundo Ojeda, en la nota de ARQ</cite>
+        </blockquote>
+        <div class="prensa-acciones">
+          <button type="button" class="btn btn-dark" data-gallery="prensa">Ver la publicación ↗</button>
+          <a href="https://www.kiosco.clarin.com/arq/20221004" target="_blank" rel="noopener" class="link-diario">Abrir la edición en el kiosco de Clarín</a>
+        </div>
+      </div>
+      <div class="prensa-thumbs">
+        <button type="button" class="prensa-thumb" data-gallery="prensa"><img src="/images/landing/landing-8e525222abe8.jpg" alt="Página 12 del suplemento ARQ: Viviendas con espacios comunitarios en Marcos Paz"></button>
+        <button type="button" class="prensa-thumb" data-gallery="prensa"><img src="/images/landing/landing-54dfc29f6be9.jpg" alt="Página 13 del suplemento ARQ: ficha técnica y láminas del proyecto"></button>
+      </div>
+    </div>
+  </div>
+</section>
+14:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$24"}}]
+25:T3d49,<section id="contacto" class="claro">
+  <div class="wrap reveal">
+    <div class="wizard-wrap">
+      <div class="wizard-head">
+        <div class="eyebrow">Armá tu consulta</div>
+        <h2>Unos pasos cortos <span class="tono">y llegamos a la charla.</span></h2>
+                <p class="sin-cargo"><b>La consulta inicial es sin cargo.</b> Si después hace falta un relevamiento en el lugar, se cotiza aparte y lo hablamos antes.</p>
+      </div>
+
+      <div class="proyecto-graph" id="proyectoGraph" hidden>
+        <svg viewBox="0 0 640 96" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
+          <line class="edge" data-edge="e1" x1="50" y1="40" x2="158" y2="40"></line>
+          <line class="edge" data-edge="e2" x1="158" y1="40" x2="266" y2="40"></line>
+          <line class="edge" data-edge="e3" x1="266" y1="40" x2="374" y2="40"></line>
+          <line class="edge" data-edge="e4" x1="374" y1="40" x2="482" y2="40"></line>
+          <line class="edge" data-edge="e5" x1="482" y1="40" x2="590" y2="40"></line>
+
+          <g class="node" data-node="ambientes">
+            <circle cx="50" cy="40" r="19"></circle>
+            <text class="node-label" x="50" y="76">Ambientes</text>
+          </g>
+          <g class="node" data-node="cocina">
+            <circle cx="158" cy="40" r="19"></circle>
+            <text class="node-label" x="158" y="76">Cocina</text>
+          </g>
+          <g class="node" data-node="galeria">
+            <circle cx="266" cy="40" r="19"></circle>
+            <text class="node-label" x="266" y="76">Galería</text>
+          </g>
+          <g class="node" data-node="dormitorios">
+            <circle cx="374" cy="40" r="19"></circle>
+            <text class="node-label" x="374" y="76">Dormitorios</text>
+          </g>
+          <g class="node" data-node="banos">
+            <circle cx="482" cy="40" r="19"></circle>
+            <text class="node-label" x="482" y="76">Baños</text>
+          </g>
+          <g class="node" data-node="exterior">
+            <circle cx="590" cy="40" r="19"></circle>
+            <text class="node-label" x="590" y="76">Exterior</text>
+          </g>
+        </svg>
+        <div class="graph-tags" id="graphTags"></div>
+      </div>
+
+      <form class="wizard" id="wizardForm">
+        <div class="wizard-progress">
+          <div class="bar"><i id="progressBar" style="width:25%"></i></div>
+        </div>
+
+        <div class="wizard-body">
+          <!-- servicio -->
+          <div class="panel" id="panel-servicio">
+            <h3 class="q">¿En qué podemos ayudarte?</h3>
+            <div class="opciones" data-group="servicio">
+              <button type="button" class="opt">Planos municipales</button>
+              <button type="button" class="opt">Proyecto arquitectónico</button>
+              <button type="button" class="opt">Reforma o ampliación</button>
+            </div>
+          </div>
+
+          <!-- reforma: una reforma va por partes, no necesita el programa completo de un proyecto -->
+          <div class="panel" id="panel-reforma" hidden>
+            <h3 class="q">¿Qué ambientes querés reformar?</h3>
+            <p class="panel-note">Podés marcar más de uno. Con saber qué parte de la casa es alcanza para la primera charla.</p>
+            <div class="opciones opciones-multi" data-multi-select="reforma_ambientes">
+              <button type="button" class="opt">Baño</button>
+              <button type="button" class="opt">Cocina</button>
+              <button type="button" class="opt">Dormitorio</button>
+              <button type="button" class="opt">Estar / Comedor</button>
+              <button type="button" class="opt">Galería o exterior</button>
+              <button type="button" class="opt">Fachada</button>
+              <button type="button" class="opt">Ampliación de metros</button>
+              <button type="button" class="opt">Toda la casa</button>
+            </div>
+            <div class="campo" style="margin-top:28px;">
+              <label for="reformaDetalle">Contanos un poco más (opcional)</label>
+              <input type="text" id="reformaDetalle" placeholder="Por ejemplo: quiero agrandar el baño y cambiar los artefactos">
+            </div>
+            <button type="button" class="btn btn-dark" id="reformaContinuar" disabled>Continuar →</button>
+          </div>
+
+          <!-- situación (solo rama Planos municipales) -->
+          <div class="panel" id="panel-situacion" hidden>
+            <h3 class="q">¿Cuál describe mejor tu situación?</h3>
+            <div class="opciones" data-group="situacion">
+              <button type="button" class="opt">Construcción no declarada</button>
+              <button type="button" class="opt">Venta o escritura</button>
+              <button type="button" class="opt">Obra nueva o ampliación</button>
+              <button type="button" class="opt">Final de obra</button>
+              <button type="button" class="opt">Observaciones municipales</button>
+              <button type="button" class="opt">No sé por dónde empezar</button>
+            </div>
+          </div>
+
+          <!-- ambientes (solo rama Proyecto arquitectónico) -->
+          <div class="panel" id="panel-ambientes" hidden>
+            <h3 class="q">Ambientes principales</h3>
+            <p class="panel-note">Son varias preguntas: te van a ayudar a llegar con un anteproyecto mucho más preciso. Tomate tu tiempo.</p>
+            <div class="subq">
+              <p class="sublabel">Estar / Comedor</p>
+              <div class="opciones opciones-2 compact" data-group="ambientes_estar" data-multi="ambientes">
+                <button type="button" class="opt">Integrado</button>
+                <button type="button" class="opt">Separado</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Cocina</p>
+              <div class="opciones opciones-2 compact" data-group="ambientes_cocina" data-multi="ambientes">
+                <button type="button" class="opt">Integrado</button>
+                <button type="button" class="opt">Separado</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Estudio</p>
+              <div class="opciones opciones-2 compact" data-group="ambientes_estudio" data-multi="ambientes">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="ambientes" disabled>Continuar →</button>
+          </div>
+
+          <!-- cocina -->
+          <div class="panel" id="panel-cocina" hidden>
+            <h3 class="q">Cocina</h3>
+            <div class="subq">
+              <p class="sublabel">Formato</p>
+              <div class="opciones compact" data-group="cocina_formato" data-multi="cocina">
+                <button type="button" class="opt">Recta</button>
+                <button type="button" class="opt">En L</button>
+                <button type="button" class="opt">En U</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Con isla</p>
+              <div class="opciones opciones-2 compact" data-group="cocina_isla" data-multi="cocina">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Comedor diario</p>
+              <div class="opciones opciones-2 compact" data-group="cocina_comedor" data-multi="cocina">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="cocina" disabled>Continuar →</button>
+          </div>
+
+          <!-- galería -->
+          <div class="panel" id="panel-galeria" hidden>
+            <h3 class="q">Galería</h3>
+            <div class="subq">
+              <p class="sublabel">Estar exterior</p>
+              <div class="opciones opciones-2 compact" data-group="galeria_estar" data-multi="galeria">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Isla</p>
+              <div class="opciones opciones-2 compact" data-group="galeria_isla" data-multi="galeria">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Parrilla</p>
+              <div class="opciones opciones-2 compact" data-group="galeria_parrilla" data-multi="galeria">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="galeria" disabled>Continuar →</button>
+          </div>
+
+          <!-- dormitorios -->
+          <div class="panel" id="panel-dormitorios" hidden>
+            <h3 class="q">Dormitorios</h3>
+            <div class="subq">
+              <p class="sublabel">Cantidad</p>
+              <div class="opciones compact" data-group="dorm_cantidad" data-multi="dormitorios">
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+                <button type="button" class="opt">3</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Vestidor</p>
+              <div class="opciones compact" data-group="dorm_vestidor" data-multi="dormitorios">
+                <button type="button" class="opt">0</button>
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">En suite</p>
+              <div class="opciones compact" data-group="dorm_ensuite" data-multi="dormitorios">
+                <button type="button" class="opt">0</button>
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="dormitorios" disabled>Continuar →</button>
+          </div>
+
+          <!-- baños -->
+          <div class="panel" id="panel-banos" hidden>
+            <h3 class="q">Baños</h3>
+            <div class="subq">
+              <p class="sublabel">Toilette</p>
+              <div class="opciones compact" data-group="banos_toilette" data-multi="banos">
+                <button type="button" class="opt">0</button>
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Baño</p>
+              <div class="opciones compact" data-group="banos_bano" data-multi="banos">
+                <button type="button" class="opt">1</button>
+                <button type="button" class="opt">2</button>
+                <button type="button" class="opt">3</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Antebaño</p>
+              <div class="opciones opciones-2 compact" data-group="banos_antebano" data-multi="banos">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="banos" disabled>Continuar →</button>
+          </div>
+
+          <!-- exterior -->
+          <div class="panel" id="panel-exterior" hidden>
+            <h3 class="q">Exterior</h3>
+            <div class="subq">
+              <p class="sublabel">Piscina</p>
+              <div class="opciones opciones-2 compact" data-group="ext_piscina" data-multi="exterior">
+                <button type="button" class="opt">Sí</button>
+                <button type="button" class="opt">No</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Cochera</p>
+              <div class="opciones opciones-2 compact" data-group="ext_cochera" data-multi="exterior">
+                <button type="button" class="opt">Cubierta</button>
+                <button type="button" class="opt">Pérgola</button>
+              </div>
+            </div>
+            <div class="subq">
+              <p class="sublabel">Complementarios</p>
+              <div class="opciones compact" data-group="ext_complementarios" data-multi="exterior">
+                <button type="button" class="opt">Ninguno</button>
+                <button type="button" class="opt">Baño exterior</button>
+                <button type="button" class="opt">Depósito exterior</button>
+              </div>
+            </div>
+            <button type="button" class="btn btn-dark continue-btn" data-panel="exterior" disabled>Continuar →</button>
+          </div>
+
+          <!-- municipio (ambas ramas) -->
+          <div class="panel" id="panel-municipio" hidden>
+            <h3 class="q">¿Dónde está el proyecto o inmueble?</h3>
+            <div class="opciones" data-group="municipio">
+              <button type="button" class="opt">Vicente López</button>
+              <button type="button" class="opt">San Isidro</button>
+              <button type="button" class="opt">Tigre</button>
+              <button type="button" class="opt">General San Martín</button>
+              <button type="button" class="opt">Escobar</button>
+              <button type="button" class="opt">San Fernando</button>
+            </div>
+          </div>
+
+          <!-- datos (ambas ramas) -->
+          <div class="panel" id="panel-datos" hidden>
+            <h3 class="q">Sigamos tu camino juntos.</h3>
+            <p class="panel-note">Esto es lo que vamos a mirar en la primera conversación. Dejanos tu nombre y seguimos por WhatsApp.</p>
+            <div class="resumen" id="resumen"></div>
+            <div class="campos-grid">
+              <div class="campo">
+                <label for="nombre">Nombre completo</label>
+                <input type="text" id="nombre" placeholder="Tu nombre" required>
+              </div>
+              <div class="campo">
+                <label for="comentario">Comentario opcional</label>
+                <textarea id="comentario" rows="2" placeholder="Algo más que debamos saber"></textarea>
+              </div>
+            </div>
+
+            <div class="recordatorio" id="recordatorio">
+              <b>Luego de consultar, datos que necesitás tener a mano</b>
+              <ul id="recLista"></ul>
+            </div>
+
+            <button type="button" class="btn btn-dark send-wa" id="sendWa" disabled>Enviar consulta por WhatsApp ↗</button>
+            <p class="sin-cargo-chico">La consulta inicial es sin cargo.</p>
+          </div>
+        </div>
+
+        <div class="wizard-foot">
+          <button type="button" class="link-back" id="backBtn" disabled>← Anterior</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+15:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$25"}}]
+26:T691,<section class="hablemos oscuro" id="hablemos">
+  <div class="planos" aria-hidden="true"><i></i><i></i></div>
+  <div class="wrap reveal">
+    <h2>Hablemos<span class="tono">.</span></h2>
+    <p class="hablemos-bajada">La consulta inicial es sin cargo. Escribinos y te decimos en qué situación estás.</p>
+
+    <div class="datos-estudio">
+      <div class="dato"><span class="dk">Email</span><a class="dv" href="mailto:grafo.arquitectos@gmail.com">grafo.arquitectos@gmail.com</a></div>
+      <div class="dato"><span class="dk">Teléfono</span><a class="dv" href="tel:+541132273109">+54 11 3227-3109</a></div>
+      <div class="dato"><span class="dk">WhatsApp</span><a class="dv" href="https://wa.me/5491132273109?text=Hola%20Grafo%2C%20vi%20su%20web%20y%20quiero%20hacer%20una%20consulta." target="_blank" rel="noopener">+54 9 11 3227-3109</a></div>
+      <div class="dato"><span class="dk">Instagram</span><a class="dv" href="https://www.instagram.com/foarq_/" target="_blank" rel="noopener">@foarq_</a></div>
+      <div class="dato"><span class="dk">Título</span><span class="dv">Arquitecto UBA · Maestro Mayor de Obras · Mat. T-54041</span></div>
+      <div class="dato"><span class="dk">Zona</span><span class="dv">Vicente López · San Isidro · Tigre · General San Martín · Escobar · San Fernando</span></div>
+    </div>
+
+    <div class="hablemos-cta">
+      <a href="#contacto" class="btn btn-light">Armar mi consulta ↗</a>
+      <a href="https://wa.me/5491132273109?text=Hola%20Grafo%2C%20vi%20su%20web%20y%20quiero%20hacer%20una%20consulta." target="_blank" rel="noopener" class="btn btn-ghost-light">Escribir por WhatsApp ↗</a>
+    </div>
+  </div>
+</section>
+16:["$","div",null,{"className":"landing-fragment","dangerouslySetInnerHTML":{"__html":"$26"}}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+27:I[6869,[],"IconMark"]
+1c:null
+20:[["$","title","0",{"children":"Grafo Estudio · Arquitectura y planos municipales"}],["$","meta","1",{"name":"description","content":"Grafo Estudio. Arquitectura, planos municipales y gestión de regularización en Vicente López, San Isidro, Tigre, General San Martín, Escobar y San Fernando."}],["$","meta","2",{"property":"og:title","content":"Grafo Estudio — Arquitectura clara"}],["$","meta","3",{"property":"og:description","content":"Grafo Estudio. Arquitectura, planos municipales y gestión de regularización en Vicente López, San Isidro, Tigre, General San Martín, Escobar y San Fernando."}],["$","meta","4",{"property":"og:image","content":"https://estudiografo.com/og.jpg"}],["$","meta","5",{"property":"og:image:width","content":"1200"}],["$","meta","6",{"property":"og:image:height","content":"630"}],["$","meta","7",{"property":"og:image:alt","content":"Grafo Estudio — Arquitectura clara"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Grafo Estudio — Arquitectura clara"}],["$","meta","10",{"name":"twitter:description","content":"Grafo Estudio. Arquitectura, planos municipales y gestión de regularización en Zona Norte."}],["$","meta","11",{"name":"twitter:image","content":"https://estudiografo.com/og.jpg"}],["$","link","12",{"rel":"icon","href":"/favicon.svg"}],["$","$L27","13",{}]]
